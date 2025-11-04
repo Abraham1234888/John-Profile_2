@@ -170,12 +170,6 @@ h2 {
 }
 
 
-
-
-
-
-
-
 .service:hover {
   transform: translateY(-5px);
 }
@@ -355,3 +349,12 @@ img{
   color: #f0f4ff;
 }
 
+#q4{
+  background-color: rgb(19, 107, 19);
+  color: #ccc;
+}
+
+#q5{
+  background-color: #1e293b;
+  color: #f0f4ff;
+}
